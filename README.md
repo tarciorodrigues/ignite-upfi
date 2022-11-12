@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../public/upfi.png" alt="Preview">
+  <img src="public/upfi.png" alt="Preview">
 </p>
 
 
